@@ -5,7 +5,7 @@ Dibuat dengan menggunakan bash, curl dan segelas kopi panas ☕
 
 ## **Fitur**
 
----
+
 
 - **Droplet List**
 <br>Memberikan informasi tentang droplet yang dimiliki oleh user beserta IP, OS, Size dan tanggal dibuatnya.
@@ -20,7 +20,7 @@ Dibuat dengan menggunakan bash, curl dan segelas kopi panas ☕
 
 ## **Cara Penggunaan**
 
----
+
 
 1. Download Script
 
@@ -28,23 +28,23 @@ Dibuat dengan menggunakan bash, curl dan segelas kopi panas ☕
 wget https://raw.githubusercontent.com/rennzone/DigitalOcean-Droplet-Manager/main/do-manager.sh
 ```
 
-1. Jalankan Script
+2. Jalankan Script
 
 ```bash
 bash do-manager.sh
 ```
 
-1. Input API Key
+3. Input API Key
 
 Pastekan API Key kalian
 
-1. Input Fitur yang ingin dijalankan
+4. Input Fitur yang ingin dijalankan
 
 Pilih opsi 1-4, kemudian enter. Pilih '0' untuk exit.
 
 ## Note
 
----
+
 
 - API Key harus memiliki full access.
 - Beberapa OS tidak bisa digunakan pada saat rebuild. Saya akan update nanti.
