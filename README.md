@@ -1,5 +1,8 @@
 <h1>DigitalOcean Droplet Manager</h1>
 
+![Screenshot_1](https://github.com/user-attachments/assets/8ed87dcc-8367-4617-86bf-e9508ddcbf8e)
+
+
 Manajemen Droplet DigitalOcean dengan menggunakan API Key. Kalian bisa melakukan deploy, destroy, restart dan rebuild Droplet secara cepat tanpa harus login via Web.
 Dibuat dengan menggunakan bash, curl dan segelas kopi panas ☕
 
